@@ -1,0 +1,10 @@
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.deps.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.runtimeconfig.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.pdb
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\DataAccessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.pdb

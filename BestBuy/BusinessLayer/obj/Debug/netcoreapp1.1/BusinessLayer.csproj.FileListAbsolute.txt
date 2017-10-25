@@ -1,0 +1,12 @@
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\BusinessLayer.deps.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\BusinessLayer.runtimeconfig.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\BusinessLayer.runtimeconfig.dev.json
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\BusinessLayer.dll
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\BusinessLayer.pdb
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.pdb
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\obj\Debug\netcoreapp1.1\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\obj\Debug\netcoreapp1.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\obj\Debug\netcoreapp1.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\obj\Debug\netcoreapp1.1\BusinessLayer.dll
+C:\Users\RealMadrid\Source\Workspaces\BestBuy\BestBuy\BusinessLayer\obj\Debug\netcoreapp1.1\BusinessLayer.pdb
